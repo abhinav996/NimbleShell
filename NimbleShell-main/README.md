@@ -2,9 +2,6 @@
 
 
 
-**Author** : **Nilay Vatsal**
-
-
 ## Overview
 
 This project implements a custom POSIX shell. The shell supports various features including command execution, background processes, I/O redirection, piping, and more.
